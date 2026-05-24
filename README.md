@@ -4,11 +4,11 @@
 <h2 align="center">📘 Available Labs</h2>
 
 <p align="center">
-<a href="Content/CT/Concrete_Technology_Lab.md"><b>Concrete Technology Lab</b></a>
+<a href="Content/CT/Concrete_Technology_Lab.html"><b>Concrete Technology Lab</b></a>
 </p>
 
 <p align="center">
-<a href="Content/TE/Transportation_Engineering_Lab.md"><b>Transportation Engineering Lab</b></a>
+<a href="Content/TE/Transportation_Engineering_Lab.html"><b>Transportation Engineering Lab</b></a>
 </p>
 
 ---
