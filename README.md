@@ -1,4 +1,4 @@
-# Civil Lab Viva Bank
+# Civil Engineering Lab Viva Bank
 
 ## Available Labs
 
