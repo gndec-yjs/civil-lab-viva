@@ -1,4 +1,4 @@
-### Transportation Engineering Lab
+## Transportation Engineering Lab
 
 - [Introduction](Introduction.md)
 - [Syllabus](Syllabus.md)
