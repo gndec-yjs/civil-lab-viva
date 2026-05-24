@@ -1,5 +1,5 @@
 <h2 align="center" style="border:none;">
-  <img src="https://img.shields.io/badge/PTU%20Syllabus-Civil%20Engineering-4a90d9?style=flat-square" alt="PTU Civil Engineering"/>
+  <img src="https://img.shields.io/badge/Civil%20Engineering-Labs-4a90d9?style=flat-square" alt="PTU Civil Engineering"/>
 </h2>
 
 <h1 align="center">Civil Engineering Lab Viva Bank</h1>
