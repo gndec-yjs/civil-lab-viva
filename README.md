@@ -1,22 +1,33 @@
+<h2 align="center" style="border:none;">
+  <img src="https://img.shields.io/badge/PTU%20Syllabus-Civil%20Engineering-4a90d9?style=flat-square" alt="PTU Civil Engineering"/>
+</h2>
+
 <h1 align="center">Civil Engineering Lab Viva Bank</h1>
 
+<p align="center"><em>External &amp; internal viva question bank</em></p>
 
-<h2 align="center">📘 Available Labs</h2>
+<br>
 
 <p align="center">
-<a href="Content/CT/Concrete_Technology_Lab.html"><b>Concrete Technology Lab</b></a>
+  <b>Available Labs</b>
 </p>
 
 <p align="center">
-<a href="Content/TE/Transportation_Engineering_Lab.html"><b>Transportation Engineering Lab</b></a>
+  <a href="Content/CT/Concrete_Technology_Lab.html">
+    🧱 &nbsp;<b>Concrete Technology Lab</b>
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="Content/TE/Transportation_Engineering_Lab.html">
+    🛣️ &nbsp;<b>Transportation Engineering Lab</b>
+  </a>
 </p>
+
+<br>
 
 ---
 
-<h2 align="center">Prepared By</h2>
-
 <p align="center">
-<b>Dr. Yuvraj Singh</b><br>
-Department of Civil Engineering<br>
-Guru Nanak Dev Engineering College, Ludhiana
+  <b>Dr. Yuvraj Singh</b><br>
+  <sub>Department of Civil Engineering<br>
+  Guru Nanak Dev Engineering College, Ludhiana</sub>
 </p>
